@@ -3107,25 +3107,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/njg/.nuget/packages/": {}
+    "C:\\Users\\xadmin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/njg/Projects/apis_dotnet/webapi/webapi.csproj",
+      "projectUniqueName": "C:\\Users\\xadmin\\Desktop\\projects\\apis_dotnet\\proyecto_apis_.net\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "/Users/njg/Projects/apis_dotnet/webapi/webapi.csproj",
-      "packagesPath": "/Users/njg/.nuget/packages/",
-      "outputPath": "/Users/njg/Projects/apis_dotnet/webapi/obj/",
+      "projectPath": "C:\\Users\\xadmin\\Desktop\\projects\\apis_dotnet\\proyecto_apis_.net\\webapi.csproj",
+      "packagesPath": "C:\\Users\\xadmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\xadmin\\Desktop\\projects\\apis_dotnet\\proyecto_apis_.net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/njg/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\xadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3184,7 +3183,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
